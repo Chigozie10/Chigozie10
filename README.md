@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Chigozie10
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on interesting projects related to data analysis
+- Hi, I’m @Chigozie10
+- I’m interested in Data Analysis
+- I’m currently learning Python and SQL
+- I’m looking to collaborate on interesting projects related to data analysis
 
 
 <!---
